@@ -2,28 +2,28 @@ function generateQuote() {
     const quotes = [
 
         {
-            quote: "This is my 1st quote.",
+            quote: "Profit is the GOAT.",
             author: "Me"      
         },
 
                 
         {
-            quote: "This is my 2nd quote.",
+            quote: "Krillin will be an alright ms.",
             author: "Me"      
         },
                 
         {
-            quote: "This is my 3rd quote.",
+            quote: "Void is the best ot still in OWL.",
             author: "Me"      
         },
                 
         {
-            quote: "This is my 4th quote.",
+            quote: "LeeSooMin is gonna diff Skewed.",
             author: "Me"      
         },
                 
         {
-            quote: "This is my 5th quote.",
+            quote: "Prophet will win ROTY.",
             author: "Me"      
         }
                 
